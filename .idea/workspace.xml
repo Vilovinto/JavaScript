@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="complete Task2">
-      <change afterPath="$PROJECT_DIR$/Homework1/Task3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework1/Task3/script.js" afterDir="false" />
+    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="complete Task3">
+      <change afterPath="$PROJECT_DIR$/Homework1/Task4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/Task4/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722960873583</updated>
-      <workItem from="1722960874642" duration="1729000" />
+      <workItem from="1722960874642" duration="2106000" />
     </task>
     <task id="LOCAL-00001" summary="complete Task1">
       <option name="closed" value="true" />
@@ -118,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722962502136</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="complete Task3">
+      <option name="closed" value="true" />
+      <created>1722962739385</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722962739385</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +135,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="complete Task1" />
     <MESSAGE value="complete Task2" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete Task2" />
+    <MESSAGE value="complete Task3" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete Task3" />
   </component>
 </project>
