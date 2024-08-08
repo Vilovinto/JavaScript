@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="complete Task4">
-      <change beforePath="$PROJECT_DIR$/Homework2/Arrays_and_objects/Task1/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Homework2/Arrays_and_objects/Task1/script.js" afterDir="false" />
+    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="update Task1">
+      <change afterPath="$PROJECT_DIR$/Homework2/Arrays_and_objects/Task5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/Arrays_and_objects/Task5/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +55,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Сергей/IdeaProjects/JavaScript/Homework2/Arrays_and_objects/Task4",
+    "last_opened_file_path": "C:/Users/Сергей/IdeaProjects/JavaScript/Homework2/Arrays_and_objects/Task5",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -65,6 +67,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework2\Arrays_and_objects\Task5" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework2\Arrays_and_objects\Task4" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework2\Arrays_and_objects\Task3" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework2\Arrays_and_objects\Task2" />
@@ -93,7 +96,7 @@
       <workItem from="1722960874642" duration="2381000" />
       <workItem from="1723049031083" duration="345000" />
       <workItem from="1723049385838" duration="99000" />
-      <workItem from="1723133039790" duration="5613000" />
+      <workItem from="1723133039790" duration="6540000" />
     </task>
     <task id="LOCAL-00001" summary="complete Task1">
       <option name="closed" value="true" />
@@ -175,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723154183241</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="update Task1">
+      <option name="closed" value="true" />
+      <created>1723154928865</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1723154928865</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +209,7 @@
     <MESSAGE value="complete Task2" />
     <MESSAGE value="complete Task3" />
     <MESSAGE value="complete Task4" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete Task4" />
+    <MESSAGE value="update Task1" />
+    <option name="LAST_COMMIT_MESSAGE" value="update Task1" />
   </component>
 </project>
