@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="complete Task3">
-      <change afterPath="$PROJECT_DIR$/Homework1/Task4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework1/Task4/script.js" afterDir="false" />
+    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="complete Task4">
+      <change afterPath="$PROJECT_DIR$/Homework2/Arrays_and_objects/Task1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/Arrays_and_objects/Task1/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,21 +25,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Vilovinto"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Vilovinto&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Vilovinto/JavaScript.git",
-    "accountId": "e4384204-b566-4564-869d-3a5f6f4169e8"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Vilovinto/JavaScript.git&quot;,
+    &quot;accountId&quot;: &quot;e4384204-b566-4564-869d-3a5f6f4169e8&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2kIAmCKY8IdryWC5y42duZupFdC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -47,24 +48,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework2\Arrays_and_objects\Task1" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework1\Task1" />
     </key>
   </component>
@@ -84,7 +86,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722960873583</updated>
-      <workItem from="1722960874642" duration="2106000" />
+      <workItem from="1722960874642" duration="2381000" />
+      <workItem from="1723049031083" duration="345000" />
+      <workItem from="1723049385838" duration="99000" />
+      <workItem from="1723133039790" duration="943000" />
     </task>
     <task id="LOCAL-00001" summary="complete Task1">
       <option name="closed" value="true" />
@@ -126,16 +131,36 @@
       <option name="project" value="LOCAL" />
       <updated>1722962739385</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="complete Task4">
+      <option name="closed" value="true" />
+      <created>1722963181027</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722963181027</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="complete Task1" />
     <MESSAGE value="complete Task2" />
     <MESSAGE value="complete Task3" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete Task3" />
+    <MESSAGE value="complete Task4" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete Task4" />
   </component>
 </project>
