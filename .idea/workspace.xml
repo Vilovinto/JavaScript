@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="complete Task3">
-      <change afterPath="$PROJECT_DIR$/Homework2/Arrays_and_objects/Task4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework2/Arrays_and_objects/Task4/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="complete Task4">
+      <change beforePath="$PROJECT_DIR$/Homework2/Arrays_and_objects/Task1/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Homework2/Arrays_and_objects/Task1/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +93,7 @@
       <workItem from="1722960874642" duration="2381000" />
       <workItem from="1723049031083" duration="345000" />
       <workItem from="1723049385838" duration="99000" />
-      <workItem from="1723133039790" duration="4801000" />
+      <workItem from="1723133039790" duration="5613000" />
     </task>
     <task id="LOCAL-00001" summary="complete Task1">
       <option name="closed" value="true" />
@@ -169,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723135784336</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="complete Task4">
+      <option name="closed" value="true" />
+      <created>1723154183241</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1723154183241</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,10 +194,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="complete Task1" />
-    <MESSAGE value="complete Task4" />
     <MESSAGE value="start Homework2 and Array_and_objects and complete Task1" />
     <MESSAGE value="complete Task2" />
     <MESSAGE value="complete Task3" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete Task3" />
+    <MESSAGE value="complete Task4" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete Task4" />
   </component>
 </project>
