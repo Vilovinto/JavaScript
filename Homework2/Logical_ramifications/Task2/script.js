@@ -1,4 +1,4 @@
-let time = prompt();
+let time = prompt('Введіть число від 0 до 59');
 switch (true){
     case (0<=time && time<15):
         console.log('Перша чверть години')
