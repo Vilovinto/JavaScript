@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="complete Task4">
-      <change afterPath="$PROJECT_DIR$/Homework2/Logical_ramifications/Task6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework2/Logical_ramifications/Task6/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="complete Task6">
+      <change afterPath="$PROJECT_DIR$/Homework2/Logical_ramifications/Task7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/Logical_ramifications/Task7/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,23 +54,23 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Сергей/IdeaProjects/JavaScript/Homework2/Logical_ramifications/Task6",
+    "last_opened_file_path": "C:/Users/Сергей/IdeaProjects/JavaScript/Homework2/Logical_ramifications/Task7",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "database.data.views.appearance",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework2\Logical_ramifications\Task7" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework2\Logical_ramifications\Task6" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework2\Logical_ramifications\Task5" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework2\Logical_ramifications\Task4" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework2\Logical_ramifications\Task3" />
-      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework2\Logical_ramifications\Task2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework2\Arrays_and_objects\Task1" />
@@ -99,7 +98,7 @@
       <workItem from="1723049385838" duration="99000" />
       <workItem from="1723133039790" duration="7953000" />
       <workItem from="1723183717127" duration="4543000" />
-      <workItem from="1723218986405" duration="1672000" />
+      <workItem from="1723218986405" duration="2085000" />
     </task>
     <task id="LOCAL-00001" summary="complete Task1">
       <option name="closed" value="true" />
@@ -245,7 +244,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723203948116</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="complete Task6">
+      <option name="closed" value="true" />
+      <created>1723221819679</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1723221819679</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,6 +278,11 @@
     <MESSAGE value="complete Task2" />
     <MESSAGE value="complete Task3" />
     <MESSAGE value="complete Task4" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete Task4" />
+    <MESSAGE value="complete Task6" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete Task6" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
