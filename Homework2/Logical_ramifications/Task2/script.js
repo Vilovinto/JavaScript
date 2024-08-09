@@ -1,4 +1,4 @@
-let time = 0;
+let time = prompt();
 switch (true){
     case (0<=time && time<15):
         console.log('Перша чверть години')
