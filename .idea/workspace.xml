@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="complete Task3">
-      <change afterPath="$PROJECT_DIR$/Homework2/Logical_ramifications/Task4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework2/Logical_ramifications/Task4/script.js" afterDir="false" />
+    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="complete Task4">
+      <change afterPath="$PROJECT_DIR$/Homework2/Logical_ramifications/Task5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/Logical_ramifications/Task5/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +55,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Сергей/IdeaProjects/JavaScript/Homework2/Logical_ramifications/Task4",
+    "last_opened_file_path": "C:/Users/Сергей/IdeaProjects/JavaScript/Homework2/Logical_ramifications/Task5",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,11 +67,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework2\Logical_ramifications\Task5" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework2\Logical_ramifications\Task4" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework2\Logical_ramifications\Task3" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework2\Logical_ramifications\Task2" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework2\Logical_ramifications\Task1" />
-      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework2\Arrays_and_objects\Task5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework2\Arrays_and_objects\Task1" />
@@ -98,7 +98,7 @@
       <workItem from="1723049031083" duration="345000" />
       <workItem from="1723049385838" duration="99000" />
       <workItem from="1723133039790" duration="7953000" />
-      <workItem from="1723183717127" duration="3811000" />
+      <workItem from="1723183717127" duration="4543000" />
     </task>
     <task id="LOCAL-00001" summary="complete Task1">
       <option name="closed" value="true" />
@@ -236,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723202700431</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="complete Task4">
+      <option name="closed" value="true" />
+      <created>1723203948116</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1723203948116</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,12 +264,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="complete Task1" />
     <MESSAGE value="start Homework2 and Array_and_objects and complete Task1" />
-    <MESSAGE value="complete Task4" />
     <MESSAGE value="update Task1" />
     <MESSAGE value="complete Task5" />
     <MESSAGE value="start Logical_ramifications and complete Task1" />
     <MESSAGE value="complete Task2" />
     <MESSAGE value="complete Task3" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete Task3" />
+    <MESSAGE value="complete Task4" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete Task4" />
   </component>
 </project>
