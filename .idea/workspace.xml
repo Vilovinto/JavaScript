@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="complete Task4">
-      <change afterPath="$PROJECT_DIR$/Homework4/Task5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework4/Task5/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="complete Task5">
+      <change afterPath="$PROJECT_DIR$/Homework4/Task6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework4/Task6/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Сергей/IdeaProjects/JavaScript/Homework4/Task5",
+    "last_opened_file_path": "C:/Users/Сергей/IdeaProjects/JavaScript/Homework4/Task6",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,11 +66,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework4\Task6" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework4\Task5" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework4\Task4" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework4\Task3" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework4\Task2" />
-      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework4\Task1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework2\Arrays_and_objects\Task1" />
@@ -109,7 +108,7 @@
       <workItem from="1723450911813" duration="3006000" />
       <workItem from="1723539943997" duration="7418000" />
       <workItem from="1723630904214" duration="31000" />
-      <workItem from="1723667922326" duration="2573000" />
+      <workItem from="1723667922326" duration="2875000" />
     </task>
     <task id="LOCAL-00001" summary="complete Task1">
       <option name="closed" value="true" />
@@ -375,7 +374,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723673913559</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="complete Task5">
+      <option name="closed" value="true" />
+      <created>1723674274142</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1723674274142</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -398,7 +405,6 @@
     <MESSAGE value="update Task1" />
     <MESSAGE value="start Logical_ramifications and complete Task1" />
     <MESSAGE value="start Homework3 and complete Task1" />
-    <MESSAGE value="complete Task5" />
     <MESSAGE value="complete Task6" />
     <MESSAGE value="complete Task7" />
     <MESSAGE value="upgrade Task5" />
@@ -406,7 +412,8 @@
     <MESSAGE value="complete Task2" />
     <MESSAGE value="complete Task3" />
     <MESSAGE value="complete Task4" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete Task4" />
+    <MESSAGE value="complete Task5" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete Task5" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
