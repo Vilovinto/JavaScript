@@ -1,6 +1,2 @@
-const cylinder = (h, r) => {
-    let pi = 3.14;
-    let s = 2 * pi * r * h;
-    return s;
-}
-console.log(cylinder(25, 55));
+const cylinder = (h, r) => 2 * Math.PI * r * h;
+cylinder(25, 55);
