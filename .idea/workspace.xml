@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="complete Task10">
+    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="complete Task1">
       <change afterPath="$PROJECT_DIR$/Homework5/Task11/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Homework5/Task11/script.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Homework5/Task12/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Homework5/Task12/script.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Homework5/Task13/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Homework5/Task13/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework5/Task6/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Homework5/Task6/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,47 +114,7 @@
       <workItem from="1723630904214" duration="31000" />
       <workItem from="1723667922326" duration="4057000" />
       <workItem from="1723718809778" duration="7654000" />
-      <workItem from="1723890521495" duration="2460000" />
-    </task>
-    <task id="LOCAL-00005" summary="complete Task3">
-      <option name="closed" value="true" />
-      <created>1722962739385</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1722962739385</updated>
-    </task>
-    <task id="LOCAL-00006" summary="complete Task4">
-      <option name="closed" value="true" />
-      <created>1722963181027</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1722963181027</updated>
-    </task>
-    <task id="LOCAL-00007" summary="start Homework2 and Array_and_objects and complete Task1">
-      <option name="closed" value="true" />
-      <created>1723134876729</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1723134876729</updated>
-    </task>
-    <task id="LOCAL-00008" summary="complete Task2">
-      <option name="closed" value="true" />
-      <created>1723135466094</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1723135466094</updated>
-    </task>
-    <task id="LOCAL-00009" summary="complete Task3">
-      <option name="closed" value="true" />
-      <created>1723135784336</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1723135784336</updated>
+      <workItem from="1723890521495" duration="2811000" />
     </task>
     <task id="LOCAL-00010" summary="complete Task4">
       <option name="closed" value="true" />
@@ -509,7 +468,47 @@
       <option name="project" value="LOCAL" />
       <updated>1723892932664</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="complete Task6">
+      <option name="closed" value="true" />
+      <created>1723893081668</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1723893081668</updated>
+    </task>
+    <task id="LOCAL-00055" summary="complete Task5">
+      <option name="closed" value="true" />
+      <created>1723893116287</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1723893116287</updated>
+    </task>
+    <task id="LOCAL-00056" summary="complete Task3">
+      <option name="closed" value="true" />
+      <created>1723893265082</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1723893265082</updated>
+    </task>
+    <task id="LOCAL-00057" summary="complete Task2">
+      <option name="closed" value="true" />
+      <created>1723893306930</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1723893306930</updated>
+    </task>
+    <task id="LOCAL-00058" summary="complete Task1">
+      <option name="closed" value="true" />
+      <created>1723893324794</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1723893324794</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -527,7 +526,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="complete Task1" />
     <MESSAGE value="start Homework2 and Array_and_objects and complete Task1" />
     <MESSAGE value="update Task1" />
     <MESSAGE value="start Logical_ramifications and complete Task1" />
@@ -538,16 +536,17 @@
     <MESSAGE value="complete Task12" />
     <MESSAGE value="complete Task13" />
     <MESSAGE value="start Homework5 and complete Task1" />
-    <MESSAGE value="complete Task2" />
-    <MESSAGE value="complete Task3" />
     <MESSAGE value="complete Task4" />
-    <MESSAGE value="complete Task5" />
-    <MESSAGE value="complete Task6" />
     <MESSAGE value="complete Task7" />
     <MESSAGE value="complete Task8" />
     <MESSAGE value="complete Task9" />
     <MESSAGE value="complete Task10" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete Task10" />
+    <MESSAGE value="complete Task6" />
+    <MESSAGE value="complete Task5" />
+    <MESSAGE value="complete Task3" />
+    <MESSAGE value="complete Task2" />
+    <MESSAGE value="complete Task1" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete Task1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
