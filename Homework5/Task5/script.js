@@ -1,4 +1,2 @@
-const arg = (txt) => {
-    document.write(`<p>${txt}</p>`)
-}
+const arg = (txt) => document.write(`<p>${txt}</p>`);
 arg('Vlad');
