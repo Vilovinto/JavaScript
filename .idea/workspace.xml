@@ -4,8 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="complete Task13">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="start Homework5 and complete Task1">
+      <change afterPath="$PROJECT_DIR$/Homework5/Task10/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5/Task10/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5/Task11/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5/Task11/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5/Task12/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5/Task12/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5/Task13/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5/Task13/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5/Task2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5/Task2/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5/Task3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5/Task3/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5/Task4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5/Task4/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5/Task5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5/Task5/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5/Task6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5/Task6/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5/Task7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5/Task7/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5/Task8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5/Task8/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5/Task9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5/Task9/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +76,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Сергей/IdeaProjects/JavaScript/Homework4/Task13",
+    "last_opened_file_path": "C:/Users/Сергей/IdeaProjects/JavaScript/Homework5",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -65,11 +88,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework5" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework4\Task13" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework4\Task12" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework4\Task11" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework4\Task10" />
-      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework4\Task9" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework2\Arrays_and_objects\Task1" />
@@ -109,6 +132,7 @@
       <workItem from="1723630904214" duration="31000" />
       <workItem from="1723667922326" duration="4057000" />
       <workItem from="1723718809778" duration="7654000" />
+      <workItem from="1723890521495" duration="394000" />
     </task>
     <task id="LOCAL-00001" summary="complete Task1">
       <option name="closed" value="true" />
@@ -446,7 +470,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723757388239</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="start Homework5 and complete Task1">
+      <option name="closed" value="true" />
+      <created>1723890735125</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1723890735125</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -483,7 +515,8 @@
     <MESSAGE value="complete Task11" />
     <MESSAGE value="complete Task12" />
     <MESSAGE value="complete Task13" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete Task13" />
+    <MESSAGE value="start Homework5 and complete Task1" />
+    <option name="LAST_COMMIT_MESSAGE" value="start Homework5 and complete Task1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
