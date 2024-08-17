@@ -1,7 +1,2 @@
-const arg = (txt) => {
-    document.write(`<ul>`);
-    document.write(`<li>${txt}</li> <li>${txt}</li> <li>${txt}</li>`)
-    document.write(`</ul>`)
-}
-
+const arg = (txt) => document.write(`<ul> <li>${txt}</li> <li>${txt}</li> <li>${txt}</li> </ul>`);
 arg('Vlad');
