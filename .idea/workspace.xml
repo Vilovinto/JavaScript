@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="complete Task13">
-      <change afterPath="$PROJECT_DIR$/Homework6/Task1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework6/Task1/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="start Homework6 and complete Task1">
+      <change afterPath="$PROJECT_DIR$/Homework6/Task2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework6/Task2/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Сергей/IdeaProjects/JavaScript/Homework6/Task1",
+    "last_opened_file_path": "C:/Users/Сергей/IdeaProjects/JavaScript/Homework6/Task2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,11 +66,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework6\Task2" />
+      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework6\Task1" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework5" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework4\Task13" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework4\Task12" />
-      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework4\Task11" />
-      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework4\Task10" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework2\Arrays_and_objects\Task1" />
@@ -112,15 +111,7 @@
       <workItem from="1723667922326" duration="4057000" />
       <workItem from="1723718809778" duration="7654000" />
       <workItem from="1723890521495" duration="3861000" />
-      <workItem from="1724100763805" duration="720000" />
-    </task>
-    <task id="LOCAL-00013" summary="start Logical_ramifications and complete Task1">
-      <option name="closed" value="true" />
-      <created>1723156507753</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1723156507753</updated>
+      <workItem from="1724100763805" duration="1018000" />
     </task>
     <task id="LOCAL-00014" summary="complete Task2">
       <option name="closed" value="true" />
@@ -506,7 +497,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723894177244</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="start Homework6 and complete Task1">
+      <option name="closed" value="true" />
+      <created>1724101806710</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1724101806710</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -544,7 +543,8 @@
     <MESSAGE value="complete Task11" />
     <MESSAGE value="complete Task12" />
     <MESSAGE value="complete Task13" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete Task13" />
+    <MESSAGE value="start Homework6 and complete Task1" />
+    <option name="LAST_COMMIT_MESSAGE" value="start Homework6 and complete Task1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
