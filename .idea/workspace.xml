@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="complete Task2">
-      <change afterPath="$PROJECT_DIR$/Homework7/Task3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework7/Task3/script.js" afterDir="false" />
+    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="complete Task3">
+      <change afterPath="$PROJECT_DIR$/Homework7/Task4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework7/Task4/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Сергей/IdeaProjects/JavaScript/Homework7/Task3",
+    "last_opened_file_path": "C:/Users/Сергей/IdeaProjects/JavaScript/Homework7/Task4",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,11 +67,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework7\Task4" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework7\Task3" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework7\Task2" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework7\Task1" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework6\Task11" />
-      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework6\Task10" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework6" />
@@ -114,15 +115,7 @@
       <workItem from="1723890521495" duration="3861000" />
       <workItem from="1724100763805" duration="8080000" />
       <workItem from="1724270687917" duration="25000" />
-      <workItem from="1724270763177" duration="3082000" />
-    </task>
-    <task id="LOCAL-00028" summary="complete Task7">
-      <option name="closed" value="true" />
-      <created>1723579798543</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1723579798543</updated>
+      <workItem from="1724270763177" duration="4104000" />
     </task>
     <task id="LOCAL-00029" summary="upgrade Task5">
       <option name="closed" value="true" />
@@ -508,7 +501,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724276966835</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="complete Task3">
+      <option name="closed" value="true" />
+      <created>1724277444085</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1724277444085</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -537,7 +538,6 @@
     <MESSAGE value="complete Task12" />
     <MESSAGE value="complete Task13" />
     <MESSAGE value="start Homework6 and complete Task1" />
-    <MESSAGE value="complete Task3" />
     <MESSAGE value="complete Task4" />
     <MESSAGE value="complete Task5" />
     <MESSAGE value="complete Task6" />
@@ -548,7 +548,8 @@
     <MESSAGE value="complete Task11" />
     <MESSAGE value="start Homework 7 and complete Task1" />
     <MESSAGE value="complete Task2" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete Task2" />
+    <MESSAGE value="complete Task3" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete Task3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
