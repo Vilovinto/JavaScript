@@ -1,4 +1,3 @@
-// Взяти масив з  User[] з попереднього завдання, та відфільтрувати , залишивши тільки об'єкти з парними id (filter)
 function User (id, name, surname, email, phone) {
     this.id = id;
     this.name = name;
