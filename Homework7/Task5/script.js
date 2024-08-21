@@ -1,4 +1,3 @@
-// Взяти масив (Client [] з попереднього завдання).Відсортувати його по кількості товарів в полі order по зростанню. (sort)
 function Client (id, name, surname, email, phone, order) {
     this.id = id;
     this.name = name;
