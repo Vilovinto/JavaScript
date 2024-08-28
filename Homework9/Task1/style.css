@@ -1,0 +1,13 @@
+.wrap{
+    width: 100px;
+    height: 100px;
+}
+.collapse{
+    background-color: black;
+}
+.alpha{
+    color: red;
+}
+.beta{
+    font-size: 50px;
+}
