@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="complete Task9">
-      <change afterPath="$PROJECT_DIR$/Homework8/Task1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework8/Task1/script.js" afterDir="false" />
+    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="complete Task4">
+      <change afterPath="$PROJECT_DIR$/Homework10/Task1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework10/Task1/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +19,7 @@
       <list>
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -55,7 +56,8 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Сергей/IdeaProjects/JavaScript/Homework8/Task1",
+    "last_opened_file_path": "C:/Users/Сергей/IdeaProjects/JavaScript/Homework10/Task1",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,11 +69,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework8\Task1" />
-      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework7\Task9\foreach" />
-      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework7\Task9\filter" />
-      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework7\Task9" />
-      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework7\Task8" />
+      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework10\Task1" />
+      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework9\Task4" />
+      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework9\Task3" />
+      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework9\Task2" />
+      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework9\Task1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework7\Task9\foreach" />
@@ -121,54 +123,8 @@
       <workItem from="1724862725318" duration="718000" />
       <workItem from="1724864729867" duration="46000" />
       <workItem from="1724864791254" duration="51000" />
-    </task>
-    <task id="LOCAL-00036" summary="complete Task7">
-      <option name="closed" value="true" />
-      <created>1723740097860</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1723740097860</updated>
-    </task>
-    <task id="LOCAL-00037" summary="complete Task8">
-      <option name="closed" value="true" />
-      <created>1723747808867</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1723747808867</updated>
-    </task>
-    <task id="LOCAL-00038" summary="complete Task9">
-      <option name="closed" value="true" />
-      <created>1723748789966</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1723748789966</updated>
-    </task>
-    <task id="LOCAL-00039" summary="complete Task10">
-      <option name="closed" value="true" />
-      <created>1723755637909</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1723755637909</updated>
-    </task>
-    <task id="LOCAL-00040" summary="complete Task11">
-      <option name="closed" value="true" />
-      <created>1723756013864</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1723756013864</updated>
-    </task>
-    <task id="LOCAL-00041" summary="complete Task12">
-      <option name="closed" value="true" />
-      <created>1723756749783</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1723756749783</updated>
+      <workItem from="1724864929687" duration="4847000" />
+      <workItem from="1724947904116" duration="435000" />
     </task>
     <task id="LOCAL-00042" summary="complete Task13">
       <option name="closed" value="true" />
@@ -514,7 +470,55 @@
       <option name="project" value="LOCAL" />
       <updated>1724284808262</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="start Homework8 and complete Task1">
+      <option name="closed" value="true" />
+      <created>1724865654828</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1724865654828</updated>
+    </task>
+    <task id="LOCAL-00086" summary="complete Task2">
+      <option name="closed" value="true" />
+      <created>1724865909541</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1724865909541</updated>
+    </task>
+    <task id="LOCAL-00087" summary="start Homework9 and complete Task1">
+      <option name="closed" value="true" />
+      <created>1724874996649</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1724874996649</updated>
+    </task>
+    <task id="LOCAL-00088" summary="complete Task2">
+      <option name="closed" value="true" />
+      <created>1724876175482</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1724876175483</updated>
+    </task>
+    <task id="LOCAL-00089" summary="complete Task3">
+      <option name="closed" value="true" />
+      <created>1724876461841</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1724876461841</updated>
+    </task>
+    <task id="LOCAL-00090" summary="complete Task4">
+      <option name="closed" value="true" />
+      <created>1724877031212</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1724877031214</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -546,15 +550,17 @@
     <MESSAGE value="complete Task10" />
     <MESSAGE value="complete Task11" />
     <MESSAGE value="start Homework 7 and complete Task1" />
-    <MESSAGE value="complete Task2" />
-    <MESSAGE value="complete Task3" />
-    <MESSAGE value="complete Task4" />
     <MESSAGE value="complete Task5" />
     <MESSAGE value="complete Task6" />
     <MESSAGE value="complete Task7" />
     <MESSAGE value="complete Task8" />
     <MESSAGE value="complete Task9" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete Task9" />
+    <MESSAGE value="start Homework8 and complete Task1" />
+    <MESSAGE value="start Homework9 and complete Task1" />
+    <MESSAGE value="complete Task2" />
+    <MESSAGE value="complete Task3" />
+    <MESSAGE value="complete Task4" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete Task4" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
