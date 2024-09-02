@@ -1,0 +1,307 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"89e40d4b-1d36-4656-b3eb-c12d08072500\" name=\"Changes\" comment=\"complete Task8\">\r\n      <change afterPath=\"$PROJECT_DIR$/Homework7/Task9/index.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Homework7/Task9/script.js\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n        <option value=\"JavaScript File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;Vilovinto&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/Vilovinto/JavaScript.git&quot;,\r\n    &quot;accountId&quot;: &quot;e4384204-b566-4564-869d-3a5f6f4169e8&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 1\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2kIAmCKY8IdryWC5y42duZupFdC\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"DefaultHtmlFileTemplate\": \"HTML File\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/Сергей/IdeaProjects/JavaScript/Homework7/Task9\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"settings.editor.selected.configurable\": \"preferences.pluginManager\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\Сергей\\IdeaProjects\\JavaScript\\Homework7\\Task9\" />\r\n      <recent name=\"C:\\Users\\Сергей\\IdeaProjects\\JavaScript\\Homework7\\Task8\" />\r\n      <recent name=\"C:\\Users\\Сергей\\IdeaProjects\\JavaScript\\Homework7\\Task7\" />\r\n      <recent name=\"C:\\Users\\Сергей\\IdeaProjects\\JavaScript\\Homework7\\Task6\" />\r\n      <recent name=\"C:\\Users\\Сергей\\IdeaProjects\\JavaScript\\Homework7\\Task5\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\Сергей\\IdeaProjects\\JavaScript\\Homework6\" />\r\n      <recent name=\"C:\\Users\\Сергей\\IdeaProjects\\JavaScript\\Homework2\\Arrays_and_objects\\Task1\" />\r\n      <recent name=\"C:\\Users\\Сергей\\IdeaProjects\\JavaScript\\Homework1\\Task1\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62\" />\r\n        <option value=\"bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"89e40d4b-1d36-4656-b3eb-c12d08072500\" name=\"Changes\" comment=\"\" />\r\n      <created>1722960873583</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1722960873583</updated>\r\n      <workItem from=\"1722960874642\" duration=\"2381000\" />\r\n      <workItem from=\"1723049031083\" duration=\"345000\" />\r\n      <workItem from=\"1723049385838\" duration=\"99000\" />\r\n      <workItem from=\"1723133039790\" duration=\"7953000\" />\r\n      <workItem from=\"1723183717127\" duration=\"4543000\" />\r\n      <workItem from=\"1723218986405\" duration=\"2382000\" />\r\n      <workItem from=\"1723236945295\" duration=\"290000\" />\r\n      <workItem from=\"1723237979914\" duration=\"35000\" />\r\n      <workItem from=\"1723284925915\" duration=\"147000\" />\r\n      <workItem from=\"1723285180488\" duration=\"76000\" />\r\n      <workItem from=\"1723285328148\" duration=\"1200000\" />\r\n      <workItem from=\"1723306174277\" duration=\"71000\" />\r\n      <workItem from=\"1723450911813\" duration=\"3006000\" />\r\n      <workItem from=\"1723539943997\" duration=\"7418000\" />\r\n      <workItem from=\"1723630904214\" duration=\"31000\" />\r\n      <workItem from=\"1723667922326\" duration=\"4057000\" />\r\n      <workItem from=\"1723718809778\" duration=\"7654000\" />\r\n      <workItem from=\"1723890521495\" duration=\"3861000\" />\r\n      <workItem from=\"1724100763805\" duration=\"8080000\" />\r\n      <workItem from=\"1724270687917\" duration=\"25000\" />\r\n      <workItem from=\"1724270763177\" duration=\"10015000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00035\" summary=\"complete Task6\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1723674654191</created>\r\n      <option name=\"number\" value=\"00035\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00035\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1723674654191</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00036\" summary=\"complete Task7\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1723740097860</created>\r\n      <option name=\"number\" value=\"00036\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00036\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1723740097860</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00037\" summary=\"complete Task8\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1723747808867</created>\r\n      <option name=\"number\" value=\"00037\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00037\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1723747808867</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00038\" summary=\"complete Task9\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1723748789966</created>\r\n      <option name=\"number\" value=\"00038\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00038\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1723748789966</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00039\" summary=\"complete Task10\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1723755637909</created>\r\n      <option name=\"number\" value=\"00039\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00039\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1723755637909</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00040\" summary=\"complete Task11\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1723756013864</created>\r\n      <option name=\"number\" value=\"00040\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00040\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1723756013864</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00041\" summary=\"complete Task12\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1723756749783</created>\r\n      <option name=\"number\" value=\"00041\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00041\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1723756749783</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00042\" summary=\"complete Task13\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1723757388239</created>\r\n      <option name=\"number\" value=\"00042\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00042\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1723757388239</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00043\" summary=\"start Homework5 and complete Task1\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1723890735125</created>\r\n      <option name=\"number\" value=\"00043\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00043\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1723890735125</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00044\" summary=\"complete Task2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1723891212111</created>\r\n      <option name=\"number\" value=\"00044\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00044\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1723891212111</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00045\" summary=\"complete Task3\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1723891300709</created>\r\n      <option name=\"number\" value=\"00045\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00045\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1723891300709</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00046\" summary=\"complete Task3\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1723891312410</created>\r\n      <option name=\"number\" value=\"00046\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00046\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1723891312410</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00047\" summary=\"complete Task4\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1723891393788</created>\r\n      <option name=\"number\" value=\"00047\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00047\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1723891393788</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00048\" summary=\"complete Task5\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1723891851828</created>\r\n      <option name=\"number\" value=\"00048\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00048\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1723891851828</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00049\" summary=\"complete Task6\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1723891986444</created>\r\n      <option name=\"number\" value=\"00049\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00049\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1723891986444</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00050\" summary=\"complete Task7\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1723892067183</created>\r\n      <option name=\"number\" value=\"00050\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00050\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1723892067183</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00051\" summary=\"complete Task8\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1723892115985</created>\r\n      <option name=\"number\" value=\"00051\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00051\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1723892115987</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00052\" summary=\"complete Task9\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1723892160061</created>\r\n      <option name=\"number\" value=\"00052\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00052\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1723892160061</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00053\" summary=\"complete Task10\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1723892932664</created>\r\n      <option name=\"number\" value=\"00053\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00053\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1723892932664</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00054\" summary=\"complete Task6\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1723893081668</created>\r\n      <option name=\"number\" value=\"00054\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00054\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1723893081668</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00055\" summary=\"complete Task5\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1723893116287</created>\r\n      <option name=\"number\" value=\"00055\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00055\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1723893116287</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00056\" summary=\"complete Task3\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1723893265082</created>\r\n      <option name=\"number\" value=\"00056\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00056\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1723893265082</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00057\" summary=\"complete Task2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1723893306930</created>\r\n      <option name=\"number\" value=\"00057\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00057\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1723893306930</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00058\" summary=\"complete Task1\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1723893324794</created>\r\n      <option name=\"number\" value=\"00058\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00058\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1723893324794</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00059\" summary=\"complete Task11\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1723893443795</created>\r\n      <option name=\"number\" value=\"00059\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00059\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1723893443795</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00060\" summary=\"complete Task12\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1723894110548</created>\r\n      <option name=\"number\" value=\"00060\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00060\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1723894110548</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00061\" summary=\"complete Task13\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1723894177243</created>\r\n      <option name=\"number\" value=\"00061\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00061\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1723894177244</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00062\" summary=\"start Homework6 and complete Task1\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1724101806710</created>\r\n      <option name=\"number\" value=\"00062\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00062\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1724101806710</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00063\" summary=\"complete Task2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1724102004321</created>\r\n      <option name=\"number\" value=\"00063\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00063\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1724102004321</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00064\" summary=\"complete Task3\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1724102163846</created>\r\n      <option name=\"number\" value=\"00064\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00064\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1724102163846</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00065\" summary=\"complete Task4\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1724102332084</created>\r\n      <option name=\"number\" value=\"00065\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00065\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1724102332084</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00066\" summary=\"complete Task5\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1724103107743</created>\r\n      <option name=\"number\" value=\"00066\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00066\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1724103107743</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00067\" summary=\"complete Task6\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1724103132600</created>\r\n      <option name=\"number\" value=\"00067\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00067\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1724103132601</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00068\" summary=\"complete Task7\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1724104141937</created>\r\n      <option name=\"number\" value=\"00068\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00068\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1724104141937</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00069\" summary=\"complete Task8\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1724108839789</created>\r\n      <option name=\"number\" value=\"00069\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00069\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1724108839789</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00070\" summary=\"complete Task8\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1724108947738</created>\r\n      <option name=\"number\" value=\"00070\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00070\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1724108947738</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00071\" summary=\"complete Task9\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1724112274782</created>\r\n      <option name=\"number\" value=\"00071\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00071\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1724112274782</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00072\" summary=\"complete Task10\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1724112826116</created>\r\n      <option name=\"number\" value=\"00072\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00072\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1724112826116</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00073\" summary=\"complete Task11\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1724113245375</created>\r\n      <option name=\"number\" value=\"00073\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00073\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1724113245375</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00074\" summary=\"start Homework 7 and complete Task1\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1724276214662</created>\r\n      <option name=\"number\" value=\"00074\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00074\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1724276214663</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00075\" summary=\"complete Task2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1724276932970</created>\r\n      <option name=\"number\" value=\"00075\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00075\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1724276932970</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00076\" summary=\"complete Task2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1724276966835</created>\r\n      <option name=\"number\" value=\"00076\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00076\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1724276966835</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00077\" summary=\"complete Task3\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1724277444085</created>\r\n      <option name=\"number\" value=\"00077\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00077\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1724277444085</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00078\" summary=\"complete Task4\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1724278525268</created>\r\n      <option name=\"number\" value=\"00078\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00078\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1724278525268</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00079\" summary=\"complete Task5\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1724278823070</created>\r\n      <option name=\"number\" value=\"00079\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00079\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1724278823070</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00080\" summary=\"complete Task5\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1724278837264</created>\r\n      <option name=\"number\" value=\"00080\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00080\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1724278837264</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00081\" summary=\"complete Task6\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1724280696589</created>\r\n      <option name=\"number\" value=\"00081\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00081\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1724280696589</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00082\" summary=\"complete Task7\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1724282126453</created>\r\n      <option name=\"number\" value=\"00082\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00082\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1724282126453</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00083\" summary=\"complete Task8\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1724283345834</created>\r\n      <option name=\"number\" value=\"00083\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00083\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1724283345834</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"84\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"start Homework2 and Array_and_objects and complete Task1\" />\r\n    <MESSAGE value=\"update Task1\" />\r\n    <MESSAGE value=\"start Logical_ramifications and complete Task1\" />\r\n    <MESSAGE value=\"start Homework3 and complete Task1\" />\r\n    <MESSAGE value=\"upgrade Task5\" />\r\n    <MESSAGE value=\"start Homework4 and complete Task1\" />\r\n    <MESSAGE value=\"start Homework5 and complete Task1\" />\r\n    <MESSAGE value=\"complete Task1\" />\r\n    <MESSAGE value=\"complete Task12\" />\r\n    <MESSAGE value=\"complete Task13\" />\r\n    <MESSAGE value=\"start Homework6 and complete Task1\" />\r\n    <MESSAGE value=\"complete Task9\" />\r\n    <MESSAGE value=\"complete Task10\" />\r\n    <MESSAGE value=\"complete Task11\" />\r\n    <MESSAGE value=\"start Homework 7 and complete Task1\" />\r\n    <MESSAGE value=\"complete Task2\" />\r\n    <MESSAGE value=\"complete Task3\" />\r\n    <MESSAGE value=\"complete Task4\" />\r\n    <MESSAGE value=\"complete Task5\" />\r\n    <MESSAGE value=\"complete Task6\" />\r\n    <MESSAGE value=\"complete Task7\" />\r\n    <MESSAGE value=\"complete Task8\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"complete Task8\" />\r\n  </component>\r\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\r\n    <expand />\r\n    <select />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 2f206a55ce71ed3e9ec2d0a36f279cf7cb02e5c4)
++++ b/.idea/workspace.xml	(date 1724828769092)
+@@ -4,9 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="complete Task8">
+-      <change afterPath="$PROJECT_DIR$/Homework7/Task9/index.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Homework7/Task9/script.js" afterDir="false" />
++    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="complete Task10">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -48,30 +46,30 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "DefaultHtmlFileTemplate": "HTML File",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "master",
+-    "ignore.virus.scanning.warn.message": "true",
+-    "kotlin-language-version-configured": "true",
+-    "last_opened_file_path": "C:/Users/Сергей/IdeaProjects/JavaScript/Homework7/Task9",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "settings.editor.selected.configurable": "preferences.pluginManager",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
++    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
++    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/Сергей/IdeaProjects/JavaScript/Homework6/Task11&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;database.data.views.appearance&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+-      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework7\Task9" />
+-      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework7\Task8" />
+-      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework7\Task7" />
+-      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework7\Task6" />
+-      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework7\Task5" />
++      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework6\Task11" />
++      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework6\Task10" />
++      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework6\Task9" />
++      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Task8" />
++      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework6\Task7" />
+     </key>
+     <key name="MoveFile.RECENT_KEYS">
+       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework6" />
+@@ -82,8 +80,8 @@
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
++        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.19072.14" />
++        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.19072.14" />
+       </set>
+     </attachedChunks>
+   </component>
+@@ -113,9 +111,96 @@
+       <workItem from="1723667922326" duration="4057000" />
+       <workItem from="1723718809778" duration="7654000" />
+       <workItem from="1723890521495" duration="3861000" />
+-      <workItem from="1724100763805" duration="8080000" />
+-      <workItem from="1724270687917" duration="25000" />
+-      <workItem from="1724270763177" duration="10015000" />
++      <workItem from="1724100763805" duration="7936000" />
++      <workItem from="1724775346386" duration="614000" />
++    </task>
++    <task id="LOCAL-00024" summary="complete Task4">
++      <option name="closed" value="true" />
++      <created>1723566199974</created>
++      <option name="number" value="00024" />
++      <option name="presentableId" value="LOCAL-00024" />
++      <option name="project" value="LOCAL" />
++      <updated>1723566199974</updated>
++    </task>
++    <task id="LOCAL-00025" summary="complete Task4">
++      <option name="closed" value="true" />
++      <created>1723566212181</created>
++      <option name="number" value="00025" />
++      <option name="presentableId" value="LOCAL-00025" />
++      <option name="project" value="LOCAL" />
++      <updated>1723566212181</updated>
++    </task>
++    <task id="LOCAL-00026" summary="complete Task5">
++      <option name="closed" value="true" />
++      <created>1723578050982</created>
++      <option name="number" value="00026" />
++      <option name="presentableId" value="LOCAL-00026" />
++      <option name="project" value="LOCAL" />
++      <updated>1723578050982</updated>
++    </task>
++    <task id="LOCAL-00027" summary="complete Task6">
++      <option name="closed" value="true" />
++      <created>1723578689515</created>
++      <option name="number" value="00027" />
++      <option name="presentableId" value="LOCAL-00027" />
++      <option name="project" value="LOCAL" />
++      <updated>1723578689515</updated>
++    </task>
++    <task id="LOCAL-00028" summary="complete Task7">
++      <option name="closed" value="true" />
++      <created>1723579798543</created>
++      <option name="number" value="00028" />
++      <option name="presentableId" value="LOCAL-00028" />
++      <option name="project" value="LOCAL" />
++      <updated>1723579798543</updated>
++    </task>
++    <task id="LOCAL-00029" summary="upgrade Task5">
++      <option name="closed" value="true" />
++      <created>1723672418015</created>
++      <option name="number" value="00029" />
++      <option name="presentableId" value="LOCAL-00029" />
++      <option name="project" value="LOCAL" />
++      <updated>1723672418015</updated>
++    </task>
++    <task id="LOCAL-00030" summary="start Homework4 and complete Task1">
++      <option name="closed" value="true" />
++      <created>1723672896159</created>
++      <option name="number" value="00030" />
++      <option name="presentableId" value="LOCAL-00030" />
++      <option name="project" value="LOCAL" />
++      <updated>1723672896159</updated>
++    </task>
++    <task id="LOCAL-00031" summary="complete Task2">
++      <option name="closed" value="true" />
++      <created>1723673321021</created>
++      <option name="number" value="00031" />
++      <option name="presentableId" value="LOCAL-00031" />
++      <option name="project" value="LOCAL" />
++      <updated>1723673321021</updated>
++    </task>
++    <task id="LOCAL-00032" summary="complete Task3">
++      <option name="closed" value="true" />
++      <created>1723673543216</created>
++      <option name="number" value="00032" />
++      <option name="presentableId" value="LOCAL-00032" />
++      <option name="project" value="LOCAL" />
++      <updated>1723673543216</updated>
++    </task>
++    <task id="LOCAL-00033" summary="complete Task4">
++      <option name="closed" value="true" />
++      <created>1723673913559</created>
++      <option name="number" value="00033" />
++      <option name="presentableId" value="LOCAL-00033" />
++      <option name="project" value="LOCAL" />
++      <updated>1723673913559</updated>
++    </task>
++    <task id="LOCAL-00034" summary="complete Task5">
++      <option name="closed" value="true" />
++      <created>1723674274142</created>
++      <option name="number" value="00034" />
++      <option name="presentableId" value="LOCAL-00034" />
++      <option name="project" value="LOCAL" />
++      <updated>1723674274142</updated>
+     </task>
+     <task id="LOCAL-00035" summary="complete Task6">
+       <option name="closed" value="true" />
+@@ -421,95 +506,7 @@
+       <option name="project" value="LOCAL" />
+       <updated>1724112826116</updated>
+     </task>
+-    <task id="LOCAL-00073" summary="complete Task11">
+-      <option name="closed" value="true" />
+-      <created>1724113245375</created>
+-      <option name="number" value="00073" />
+-      <option name="presentableId" value="LOCAL-00073" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1724113245375</updated>
+-    </task>
+-    <task id="LOCAL-00074" summary="start Homework 7 and complete Task1">
+-      <option name="closed" value="true" />
+-      <created>1724276214662</created>
+-      <option name="number" value="00074" />
+-      <option name="presentableId" value="LOCAL-00074" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1724276214663</updated>
+-    </task>
+-    <task id="LOCAL-00075" summary="complete Task2">
+-      <option name="closed" value="true" />
+-      <created>1724276932970</created>
+-      <option name="number" value="00075" />
+-      <option name="presentableId" value="LOCAL-00075" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1724276932970</updated>
+-    </task>
+-    <task id="LOCAL-00076" summary="complete Task2">
+-      <option name="closed" value="true" />
+-      <created>1724276966835</created>
+-      <option name="number" value="00076" />
+-      <option name="presentableId" value="LOCAL-00076" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1724276966835</updated>
+-    </task>
+-    <task id="LOCAL-00077" summary="complete Task3">
+-      <option name="closed" value="true" />
+-      <created>1724277444085</created>
+-      <option name="number" value="00077" />
+-      <option name="presentableId" value="LOCAL-00077" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1724277444085</updated>
+-    </task>
+-    <task id="LOCAL-00078" summary="complete Task4">
+-      <option name="closed" value="true" />
+-      <created>1724278525268</created>
+-      <option name="number" value="00078" />
+-      <option name="presentableId" value="LOCAL-00078" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1724278525268</updated>
+-    </task>
+-    <task id="LOCAL-00079" summary="complete Task5">
+-      <option name="closed" value="true" />
+-      <created>1724278823070</created>
+-      <option name="number" value="00079" />
+-      <option name="presentableId" value="LOCAL-00079" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1724278823070</updated>
+-    </task>
+-    <task id="LOCAL-00080" summary="complete Task5">
+-      <option name="closed" value="true" />
+-      <created>1724278837264</created>
+-      <option name="number" value="00080" />
+-      <option name="presentableId" value="LOCAL-00080" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1724278837264</updated>
+-    </task>
+-    <task id="LOCAL-00081" summary="complete Task6">
+-      <option name="closed" value="true" />
+-      <created>1724280696589</created>
+-      <option name="number" value="00081" />
+-      <option name="presentableId" value="LOCAL-00081" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1724280696589</updated>
+-    </task>
+-    <task id="LOCAL-00082" summary="complete Task7">
+-      <option name="closed" value="true" />
+-      <created>1724282126453</created>
+-      <option name="number" value="00082" />
+-      <option name="presentableId" value="LOCAL-00082" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1724282126453</updated>
+-    </task>
+-    <task id="LOCAL-00083" summary="complete Task8">
+-      <option name="closed" value="true" />
+-      <created>1724283345834</created>
+-      <option name="number" value="00083" />
+-      <option name="presentableId" value="LOCAL-00083" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1724283345834</updated>
+-    </task>
+-    <option name="localTasksCounter" value="84" />
++    <option name="localTasksCounter" value="73" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -535,13 +532,10 @@
+     <MESSAGE value="start Homework4 and complete Task1" />
+     <MESSAGE value="start Homework5 and complete Task1" />
+     <MESSAGE value="complete Task1" />
++    <MESSAGE value="complete Task11" />
+     <MESSAGE value="complete Task12" />
+     <MESSAGE value="complete Task13" />
+     <MESSAGE value="start Homework6 and complete Task1" />
+-    <MESSAGE value="complete Task9" />
+-    <MESSAGE value="complete Task10" />
+-    <MESSAGE value="complete Task11" />
+-    <MESSAGE value="start Homework 7 and complete Task1" />
+     <MESSAGE value="complete Task2" />
+     <MESSAGE value="complete Task3" />
+     <MESSAGE value="complete Task4" />
+@@ -549,7 +543,9 @@
+     <MESSAGE value="complete Task6" />
+     <MESSAGE value="complete Task7" />
+     <MESSAGE value="complete Task8" />
+-    <option name="LAST_COMMIT_MESSAGE" value="complete Task8" />
++    <MESSAGE value="complete Task9" />
++    <MESSAGE value="complete Task10" />
++    <option name="LAST_COMMIT_MESSAGE" value="complete Task10" />
+   </component>
+   <component name="XSLT-Support.FileAssociations.UIState">
+     <expand />
