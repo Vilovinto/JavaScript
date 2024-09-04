@@ -7,7 +7,7 @@ function addToLocalStorage(arrayName, objToAdd) {
     if (typeof objToAdd === 'object') {
         array.push(objToAdd);
     }
-    localStorage.setItem(arrayName, JSON.stringify(array));
+    const json = JSON.stringify(array);
+    localStorage.setItem(arrayName, json);
 }
-localStorage.setItem('sessionsList', JSON.stringify([]));
 addToLocalStorage('sessionsList', {});
