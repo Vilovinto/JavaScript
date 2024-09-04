@@ -1,8 +1,11 @@
-let button = document.getElementsByTagName('button')[0];
-button.onclick(function (){
-    let form = document.getElementsByTagName('form')[0];
-    let name = form.elements['name'].value;
-    let surname = form.elements['surname'].value;
-    let age = form.elements['age'].value;
-    document.getElementsByTagName('div')[0].innerText = `name: ${name}, surname: ${surname}, age: ${age}`;
-})
+const form = document.forms.someForm;
+const div = document.getElementsByTagName('div')[0];
+form.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const name = form.name.value;
+    const surname = form.surname.value;
+    const age = form.age.value;
+    let obj = {name, surname, age}
+    console.log(obj);
+    div.innerText = obj.name + ' ' + obj.surname + ' ' + obj.age;
+});

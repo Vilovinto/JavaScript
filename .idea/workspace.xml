@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="corrected mistake">
-      <change afterPath="$PROJECT_DIR$/Homework10/Task4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework10/Task4/script.js" afterDir="false" />
+    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="complete Task4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework10/Task3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework10/Task3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework10/Task3/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Homework10/Task3/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,15 +117,7 @@
       <workItem from="1724270687917" duration="25000" />
       <workItem from="1724270763177" duration="10015000" />
       <workItem from="1725436283921" duration="16000" />
-      <workItem from="1725436739344" duration="1307000" />
-    </task>
-    <task id="LOCAL-00041" summary="complete Task12">
-      <option name="closed" value="true" />
-      <created>1723756749783</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1723756749783</updated>
+      <workItem from="1725436739344" duration="2951000" />
     </task>
     <task id="LOCAL-00042" summary="complete Task13">
       <option name="closed" value="true" />
@@ -511,7 +503,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725437620673</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="complete Task4">
+      <option name="closed" value="true" />
+      <created>1725438121431</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1725438121431</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -548,11 +548,11 @@
     <MESSAGE value="complete Task8" />
     <MESSAGE value="complete Task2" />
     <MESSAGE value="complete Task3" />
-    <MESSAGE value="complete Task4" />
     <MESSAGE value="complete Task5" />
     <MESSAGE value="complete Task6" />
     <MESSAGE value="corrected mistake" />
-    <option name="LAST_COMMIT_MESSAGE" value="corrected mistake" />
+    <MESSAGE value="complete Task4" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete Task4" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
