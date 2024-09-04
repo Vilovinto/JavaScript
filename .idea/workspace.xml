@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="complete Task7">
-      <change afterPath="$PROJECT_DIR$/Homework10/Task8/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework10/Task8/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="complete Task8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,15 +113,7 @@
       <workItem from="1724270687917" duration="25000" />
       <workItem from="1724270763177" duration="10015000" />
       <workItem from="1725436283921" duration="16000" />
-      <workItem from="1725436739344" duration="5298000" />
-    </task>
-    <task id="LOCAL-00045" summary="complete Task3">
-      <option name="closed" value="true" />
-      <created>1723891300709</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1723891300709</updated>
+      <workItem from="1725436739344" duration="5624000" />
     </task>
     <task id="LOCAL-00046" summary="complete Task3">
       <option name="closed" value="true" />
@@ -511,7 +499,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725446041105</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="complete Task8">
+      <option name="closed" value="true" />
+      <created>1725446850000</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1725446850000</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -544,7 +540,6 @@
     <MESSAGE value="complete Task10" />
     <MESSAGE value="complete Task11" />
     <MESSAGE value="start Homework 7 and complete Task1" />
-    <MESSAGE value="complete Task8" />
     <MESSAGE value="complete Task2" />
     <MESSAGE value="complete Task5" />
     <MESSAGE value="complete Task6" />
@@ -552,7 +547,8 @@
     <MESSAGE value="complete Task4" />
     <MESSAGE value="complete Task3" />
     <MESSAGE value="complete Task7" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete Task7" />
+    <MESSAGE value="complete Task8" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete Task8" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
