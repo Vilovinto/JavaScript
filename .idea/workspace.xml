@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="complete Task6">
+    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="corrected mistake">
+      <change afterPath="$PROJECT_DIR$/Homework10/Task4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework10/Task4/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,28 +48,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Владислав/IdeaProjects/JavaScript/Homework10/Task6&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Владислав/IdeaProjects/JavaScript/Homework10/Task4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Владислав\IdeaProjects\JavaScript\Homework10\Task4" />
       <recent name="C:\Users\Владислав\IdeaProjects\JavaScript\Homework10\Task6" />
       <recent name="C:\Users\Владислав\IdeaProjects\JavaScript\Homework10\Task5" />
-      <recent name="C:\Users\Владислав\IdeaProjects\JavaScript\Homework10\Task4" />
       <recent name="C:\Users\Владислав\IdeaProjects\JavaScript\Homework10\Task3" />
       <recent name="C:\Users\Владислав\IdeaProjects\JavaScript\Homework10\Task2" />
     </key>
@@ -115,15 +117,7 @@
       <workItem from="1724270687917" duration="25000" />
       <workItem from="1724270763177" duration="10015000" />
       <workItem from="1725436283921" duration="16000" />
-      <workItem from="1725436739344" duration="619000" />
-    </task>
-    <task id="LOCAL-00040" summary="complete Task11">
-      <option name="closed" value="true" />
-      <created>1723756013864</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1723756013864</updated>
+      <workItem from="1725436739344" duration="1307000" />
     </task>
     <task id="LOCAL-00041" summary="complete Task12">
       <option name="closed" value="true" />
@@ -509,7 +503,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725310861312</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="corrected mistake">
+      <option name="closed" value="true" />
+      <created>1725437620673</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1725437620673</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -549,7 +551,8 @@
     <MESSAGE value="complete Task4" />
     <MESSAGE value="complete Task5" />
     <MESSAGE value="complete Task6" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete Task6" />
+    <MESSAGE value="corrected mistake" />
+    <option name="LAST_COMMIT_MESSAGE" value="corrected mistake" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
