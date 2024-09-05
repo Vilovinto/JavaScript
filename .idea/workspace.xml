@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="complete Task9">
-      <change afterPath="$PROJECT_DIR$/Homework10/Task10/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework10/Task10/script.js" afterDir="false" />
+    <list default="true" id="89e40d4b-1d36-4656-b3eb-c12d08072500" name="Changes" comment="complete Task4">
+      <change afterPath="$PROJECT_DIR$/Homework11/Task1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework11/Task1/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_09_2024_20_11__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_09_2024_20_11__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework10/Task3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework10/Task3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework10/Task3/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Homework10/Task3/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +20,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -33,7 +38,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Vilovinto/JavaScript.git&quot;,
-    &quot;accountId&quot;: &quot;e58fdead-64c3-4021-a698-4f09ce893a90&quot;
+    &quot;accountId&quot;: &quot;e4384204-b566-4564-869d-3a5f6f4169e8&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -54,25 +59,27 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Владислав/IdeaProjects/JavaScript/Homework10/Task10",
+    "last_opened_file_path": "C:/Users/Сергей/IdeaProjects/JavaScript/Homework11/Task1",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "preferences.rainbow.brackets.root",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Владислав\IdeaProjects\JavaScript\Homework10\Task10" />
-      <recent name="C:\Users\Владислав\IdeaProjects\JavaScript\Homework10\Task9" />
-      <recent name="C:\Users\Владислав\IdeaProjects\JavaScript\Homework10\Task8" />
-      <recent name="C:\Users\Владислав\IdeaProjects\JavaScript\Homework10\Task4" />
-      <recent name="C:\Users\Владислав\IdeaProjects\JavaScript\Homework10\Task6" />
+      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework11\Task1" />
+      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework10\Task1" />
+      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework9\Task4" />
+      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework9\Task3" />
+      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework9\Task2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework7\Task9\foreach" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework6" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework2\Arrays_and_objects\Task1" />
       <recent name="C:\Users\Сергей\IdeaProjects\JavaScript\Homework1\Task1" />
@@ -81,8 +88,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.19072.14" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.19072.14" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
       </set>
     </attachedChunks>
   </component>
@@ -114,9 +121,53 @@
       <workItem from="1723890521495" duration="3861000" />
       <workItem from="1724100763805" duration="8080000" />
       <workItem from="1724270687917" duration="25000" />
-      <workItem from="1724270763177" duration="10015000" />
-      <workItem from="1725436283921" duration="16000" />
-      <workItem from="1725436739344" duration="5937000" />
+      <workItem from="1724270763177" duration="10247000" />
+      <workItem from="1724493805935" duration="2964000" />
+      <workItem from="1724862725318" duration="718000" />
+      <workItem from="1724864729867" duration="46000" />
+      <workItem from="1724864791254" duration="51000" />
+      <workItem from="1724864929687" duration="4847000" />
+      <workItem from="1724947904116" duration="435000" />
+    </task>
+    <task id="LOCAL-00042" summary="complete Task13">
+      <option name="closed" value="true" />
+      <created>1723757388239</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1723757388239</updated>
+    </task>
+    <task id="LOCAL-00043" summary="start Homework5 and complete Task1">
+      <option name="closed" value="true" />
+      <created>1723890735125</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1723890735125</updated>
+    </task>
+    <task id="LOCAL-00044" summary="complete Task2">
+      <option name="closed" value="true" />
+      <created>1723891212111</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1723891212111</updated>
+    </task>
+    <task id="LOCAL-00045" summary="complete Task3">
+      <option name="closed" value="true" />
+      <created>1723891300709</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1723891300709</updated>
+    </task>
+    <task id="LOCAL-00046" summary="complete Task3">
+      <option name="closed" value="true" />
+      <created>1723891312410</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1723891312410</updated>
     </task>
     <task id="LOCAL-00047" summary="complete Task4">
       <option name="closed" value="true" />
@@ -414,103 +465,63 @@
       <option name="project" value="LOCAL" />
       <updated>1724283345834</updated>
     </task>
-    <task id="LOCAL-00084" summary="complete Task2">
+    <task id="LOCAL-00084" summary="complete Task9">
       <option name="closed" value="true" />
-      <created>1725308086496</created>
+      <created>1724284808262</created>
       <option name="number" value="00084" />
       <option name="presentableId" value="LOCAL-00084" />
       <option name="project" value="LOCAL" />
-      <updated>1725308086496</updated>
+      <updated>1724284808262</updated>
     </task>
-    <task id="LOCAL-00085" summary="complete Task3">
+    <task id="LOCAL-00085" summary="start Homework8 and complete Task1">
       <option name="closed" value="true" />
-      <created>1725309578645</created>
+      <created>1724865654828</created>
       <option name="number" value="00085" />
       <option name="presentableId" value="LOCAL-00085" />
       <option name="project" value="LOCAL" />
-      <updated>1725309578645</updated>
+      <updated>1724865654828</updated>
     </task>
-    <task id="LOCAL-00086" summary="complete Task4">
+    <task id="LOCAL-00086" summary="complete Task2">
       <option name="closed" value="true" />
-      <created>1725310165105</created>
+      <created>1724865909541</created>
       <option name="number" value="00086" />
       <option name="presentableId" value="LOCAL-00086" />
       <option name="project" value="LOCAL" />
-      <updated>1725310165105</updated>
+      <updated>1724865909541</updated>
     </task>
-    <task id="LOCAL-00087" summary="complete Task5">
+    <task id="LOCAL-00087" summary="start Homework9 and complete Task1">
       <option name="closed" value="true" />
-      <created>1725310574171</created>
+      <created>1724874996649</created>
       <option name="number" value="00087" />
       <option name="presentableId" value="LOCAL-00087" />
       <option name="project" value="LOCAL" />
-      <updated>1725310574171</updated>
+      <updated>1724874996649</updated>
     </task>
-    <task id="LOCAL-00088" summary="complete Task6">
+    <task id="LOCAL-00088" summary="complete Task2">
       <option name="closed" value="true" />
-      <created>1725310861312</created>
+      <created>1724876175482</created>
       <option name="number" value="00088" />
       <option name="presentableId" value="LOCAL-00088" />
       <option name="project" value="LOCAL" />
-      <updated>1725310861312</updated>
+      <updated>1724876175483</updated>
     </task>
-    <task id="LOCAL-00089" summary="corrected mistake">
+    <task id="LOCAL-00089" summary="complete Task3">
       <option name="closed" value="true" />
-      <created>1725437620673</created>
+      <created>1724876461841</created>
       <option name="number" value="00089" />
       <option name="presentableId" value="LOCAL-00089" />
       <option name="project" value="LOCAL" />
-      <updated>1725437620673</updated>
+      <updated>1724876461841</updated>
     </task>
     <task id="LOCAL-00090" summary="complete Task4">
       <option name="closed" value="true" />
-      <created>1725438121431</created>
+      <created>1724877031212</created>
       <option name="number" value="00090" />
       <option name="presentableId" value="LOCAL-00090" />
       <option name="project" value="LOCAL" />
-      <updated>1725438121431</updated>
+      <updated>1724877031214</updated>
     </task>
-    <task id="LOCAL-00091" summary="complete Task3">
-      <option name="closed" value="true" />
-      <created>1725439868478</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1725439868478</updated>
-    </task>
-    <task id="LOCAL-00092" summary="complete Task3">
-      <option name="closed" value="true" />
-      <created>1725439983466</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1725439983466</updated>
-    </task>
-    <task id="LOCAL-00093" summary="complete Task7">
-      <option name="closed" value="true" />
-      <created>1725446041105</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1725446041105</updated>
-    </task>
-    <task id="LOCAL-00094" summary="complete Task8">
-      <option name="closed" value="true" />
-      <created>1725446850000</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1725446850000</updated>
-    </task>
-    <task id="LOCAL-00095" summary="complete Task9">
-      <option name="closed" value="true" />
-      <created>1725447197408</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1725447197408</updated>
-    </task>
-    <option name="localTasksCounter" value="96" />
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -542,16 +553,17 @@
     <MESSAGE value="complete Task10" />
     <MESSAGE value="complete Task11" />
     <MESSAGE value="start Homework 7 and complete Task1" />
-    <MESSAGE value="complete Task2" />
     <MESSAGE value="complete Task5" />
     <MESSAGE value="complete Task6" />
-    <MESSAGE value="corrected mistake" />
-    <MESSAGE value="complete Task4" />
-    <MESSAGE value="complete Task3" />
     <MESSAGE value="complete Task7" />
     <MESSAGE value="complete Task8" />
     <MESSAGE value="complete Task9" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete Task9" />
+    <MESSAGE value="start Homework8 and complete Task1" />
+    <MESSAGE value="start Homework9 and complete Task1" />
+    <MESSAGE value="complete Task2" />
+    <MESSAGE value="complete Task3" />
+    <MESSAGE value="complete Task4" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete Task4" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
